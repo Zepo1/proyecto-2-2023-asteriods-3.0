@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/09 16:30:32.000.070,=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 17:48:04.000.275,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\LAB45-ESTUDIANTE\Documents\proyecto 2-2023 asteroids\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 17:48:04.000.275,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LAB45-ESTUDIANTE\Documents\proyecto 2-2023 asteroids\Unit1.dfm</Transaction>
+    <Transaction>2023/11/09 17:48:04.000.696,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\LAB45-ESTUDIANTE\Documents\proyecto 2-2023 asteroids\Project1.dproj</Transaction>
+    <Transaction>2023/11/13 20:47:03.000.936,=D:\embarcadero\programacion 1\proyecto 2-2023 asteroids\Unit2.pas</Transaction>
+    <Transaction>2023/11/13 21:12:37.000.609,D:\embarcadero\programacion 1\proyecto 2-2023 asteroids\Unave.pas=D:\embarcadero\programacion 1\proyecto 2-2023 asteroids\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

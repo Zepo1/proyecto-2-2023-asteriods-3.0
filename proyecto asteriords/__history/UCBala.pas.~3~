@@ -1,0 +1,37 @@
+unit UCBala;
+
+interface
+
+uses classes, System.Types, graphics;
+  type
+    bala = class
+      private
+        velocidad: integer;
+        punto: TPoint;
+        angulo: integer;
+      public
+        constructor Create(x, y: integer);
+        procedure dibujar(canvas: TCanvas);
+        procedure mover;
+
+    end;
+implementation
+
+{ bala }
+
+constructor bala.Create(x, y: integer);
+begin
+
+end;
+
+procedure bala.dibujar(canvas: TCanvas);
+begin
+
+end;
+
+procedure bala.mover;
+begin
+
+end;
+
+end.
